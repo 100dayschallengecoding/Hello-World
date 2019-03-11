@@ -1,0 +1,12 @@
+myMap	prueba 00.htm	/^				function myMap() {$/;"	f
+myFunction	copyandpastew3school.html	/^function myFunction() {<br>$/;"	f
+w3_open	copyandpastew3school.html	/^function w3_open() {$/;"	f
+w3_close	copyandpastew3school.html	/^function w3_close() {$/;"	f
+open_xs_menu	copyandpastew3school.html	/^function open_xs_menu(x) {$/;"	f
+w3_open_nav	copyandpastew3school.html	/^function w3_open_nav(x) {$/;"	f
+w3_close_nav	copyandpastew3school.html	/^function w3_close_nav(x) {$/;"	f
+open_translate	copyandpastew3school.html	/^function open_translate(elmnt) {$/;"	f
+open_search	copyandpastew3school.html	/^function open_search(elmnt) {$/;"	f
+googleTranslateElementInit	copyandpastew3school.html	/^function googleTranslateElementInit() {$/;"	f
+clickFBLike	copyandpastew3school.html	/^function clickFBLike() {$/;"	f
+hideFBLike	copyandpastew3school.html	/^function hideFBLike() {$/;"	f
