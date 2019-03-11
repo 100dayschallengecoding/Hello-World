@@ -1,0 +1,46 @@
+li {
+	color:lavender;
+	font-weight:Bold;
+	font-size:40px;
+}
+p  {
+	color:White;
+	background:purple;
+	font-size:32px;
+}
+
+h1 {
+	background: radial-gradient(turquoise, purple);
+	color:Orange;
+	font-weight:Bold;
+	font-size:75px;
+	
+}
+
+th {
+	border:1px solid SlateBlue;
+	text-align: left;
+	color:White;
+	font-weight:Bold;
+	font-size:30px;
+
+}
+
+td {
+	border:1px solid Slateblue;
+	text-align: left;
+	color:Slateblue;
+	font-weight:Bold;
+	font-size:30px;
+
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
